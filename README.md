@@ -40,7 +40,7 @@ Talently’s getting regular updates to make it work better. We’re planning to
 
 ### How it works
 * Add talently – app developer in one click to Chrome from Google Store https://chromewebstore.google.com/detail/app-developer-in-one-clic/pjhfikhiahmphpeiaapfdnhcmkphcmjn or developer page: https://upstaff.com/tools/talently-app-developer-in-one-click/
-[!HIre App Developer - Talently in Chrome Web Store](https://upstaff.com/wp-content/uploads/2025/03/107280622-91a8ea80-6a26-11eb-8d07-77c548b28665.png)
+![Hire App Developer - Talently in Chrome Web Store](https://upstaff.com/wp-content/uploads/2025/03/107280622-91a8ea80-6a26-11eb-8d07-77c548b28665.png)
 
 * Open job descriptions on popular platforms or any Google Doc files (TBD)
 * Extract tech skills & key details.
