@@ -1,9 +1,9 @@
 # Upstaff Tools
-[Free Web-Based and Online Tools.](https://upstaff.com/tools/)
+[Free Web-Based and Online Tools](https://upstaff.com/tools/).
 A collection of powerful and effective digital tools, Chrome extensions, and online utilities designed for developers, designers, product managers, and recruiters to build high-quality projects faster.
 
 ## Talently
-![alt text](https://upstaff.com/wp-content/uploads/2025/02/Screenshot_03_1280x800-1.jpeg.webp)
+![Hire App Developer - Talently](https://upstaff.com/wp-content/uploads/2025/02/Screenshot_03_1280x800-1.jpeg.webp)
 **talently is the easiest tool to find and connect with relevant software [app developers](https://upstaff.com/tools/talently-app-developer-in-one-click/) in minutes.**
 
 Talently is a new Chrome extension that facilitates the process of identifying and connecting with skilled developers by analyzing content directly in your browser, available on any webpage—such as job postings on platforms like Indeed, Wellfound, Upwork, Reddit Jobs, or X Jobs, drafts in Google Docs, PDFs on Google Drive, or highlighted text. Here’s how it operates, based on its features and observed use cases:
@@ -40,6 +40,8 @@ Talently’s getting regular updates to make it work better. We’re planning to
 
 ### How it works
 * Add talently – app developer in one click to Chrome from Google Store https://chromewebstore.google.com/detail/app-developer-in-one-clic/pjhfikhiahmphpeiaapfdnhcmkphcmjn or developer page: https://upstaff.com/tools/talently-app-developer-in-one-click/
+[!HIre App Developer - Talently in Chrome Web Store](https://upstaff.com/wp-content/uploads/2025/03/107280622-91a8ea80-6a26-11eb-8d07-77c548b28665.png)
+
 * Open job descriptions on popular platforms or any Google Doc files (TBD)
 * Extract tech skills & key details.
 * Find the best-matching engineers
